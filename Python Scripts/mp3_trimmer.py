@@ -1,6 +1,6 @@
 '''
 Created this little script to solve windows 11 lack of free audio trimming tools
-The python verison I used to make this script was 3.12.8
+The python verison I used to make this script was 3.11.9
 Need to run "pip install pydub" in the terminal
 Also need to download "FFmpeg" look up instructions for your specific operating system
 For windows 11 I found installing and setting up "Windows builds from gyan.dev" to be easiest
